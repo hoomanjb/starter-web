@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 2018 git
 
 ## HOW to Contribute
-plz fork this repo
+plz fork this repo ALL right
